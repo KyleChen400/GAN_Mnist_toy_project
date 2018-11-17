@@ -1,7 +1,7 @@
 # Generative Adversarial Network using PyTorch
 Here, we implement a basic GAN model using PyTorch to generate handwritten digits.
 
-![Results](/mnist_training.gif)
+![Results](mnist_training.gif)
 
 
 ## Getting Started
