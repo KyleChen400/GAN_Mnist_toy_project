@@ -14,8 +14,8 @@ utils.py ----- Print resuls, save model and related
 
 
 ## Environment 
-Python 3
-torch 
+ - Python 3
+ - torch 
 
 
 ## Acknowledgement
