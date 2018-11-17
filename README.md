@@ -17,11 +17,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Acknowledgement
 
- - UC Berkeley IEOR FinTech Capstone Team (Chen Qi, Fan Xi, Yitong, Yishuang, Yuxin)
+ - UC Berkeley IEOR FinTech Capstone Team (Edward Tiong, Fan Xi, Yitong, Yishuang, Yuxin)
  - UC Berkeley IEOR FinTech Faculty (Prof Xin Guo, Cheng-Ju)
  - more to be added
 
 
 ## Contact
 
-If you face any issues or have any questions, please contact me at edwardtky@berkeley.edu
+If you face any issues or have any questions, please contact me at qi_chen@berkeley.edu
