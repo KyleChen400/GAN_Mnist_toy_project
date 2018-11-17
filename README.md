@@ -13,15 +13,9 @@ mnist.py ----- A fast-run version, script that you can see results within approx
 utils.py ----- Print resuls, save model and related
 
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine.
-
-1. Clone this Github repo into your local machine.
-
-2. You will need to have the following packages install: torchvision, tensorboardx, jupyter, matplotlib, numpy
-
-3. Open the iPython Notebook mnist.ipynb and follow the tutorial inside.
+## Environment 
+Python 3
+torch 
 
 
 ## Acknowledgement
